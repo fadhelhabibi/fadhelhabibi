@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Fadhel Habibi 👋
 
-<!--
-**fadhelhabibi/fadhelhabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_"Work on you, for you"_  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m a **Front-End Developer**.
+- 📫 You can contact me by email: [**halo.fadhelhabibi@gmail.com**](mailto:halo.fadhelhabibi@gmail.com)
+- 🏣 Find me on [LinkedIn](https://www.linkedin.com/in/ahmad-fadhel-habibi-790743151/): Ahmad Fadhel Habibi
+
+---
+
+## Skills 🛠️
+
+### 🎨 Frontend Development
+- **HTML / HTML5**
+- **CSS**
+- **JavaScript / ES6**
+- **AngularJS**
+
+### 📌 Backend Development
+- **Server-Side**: PHP / Laravel / CodeIgniter
+- **Database**: SQL / MySQL
+
+### 🎁 Other Skills
+- **Version Control**: Git
+- **Web Servers**: Apache
+- **Package Managers**: NPM, Composer
+- **Basic**: Figma, Canva, Microsoft, Adobe
+- **IDE**: VS Code
+
+---
