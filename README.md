@@ -26,7 +26,7 @@ _"Work on you, for you"_
 - **Version Control**: Git
 - **Web Servers**: Apache
 - **Package Managers**: NPM, Composer
-- **Basic**: Figma, Canva, Microsoft, Adobe
 - **IDE**: VS Code
+- **Basic**: Figma, Canva, Microsoft, Adobe
 
 ---
