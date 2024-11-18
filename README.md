@@ -4,7 +4,7 @@ _"Work on you, for you"_
 
 ---
 
-- 🌱 I’m a **Front-End Developer**.
+- 🌱 I’m a **Web Developer**.
 - 📫 You can contact me by email: [**halo.fadhelhabibi@gmail.com**](mailto:halo.fadhelhabibi@gmail.com)
 - 🏣 Find me on [LinkedIn](https://www.linkedin.com/in/ahmad-fadhel-habibi-790743151/): Ahmad Fadhel Habibi
 
