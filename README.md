@@ -6,7 +6,7 @@ _"Work on you, for you"_
 
 - 🌱 I’m a **Web Developer**.
 - 📫 You can contact me by email: [**halo.fadhelhabibi@gmail.com**](mailto:halo.fadhelhabibi@gmail.com)
-- 🏣 Find me on [LinkedIn](https://www.linkedin.com/in/ahmad-fadhel-habibi-790743151/)
+- 🏣 Find me on [LinkedIn](https://www.linkedin.com/in/ahmad-fadhel-habibi-790743151/) or [Instagram](https://www.instagram.com/portobyfadhel/)
 
 ---
 
