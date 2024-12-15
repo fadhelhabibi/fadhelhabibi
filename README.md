@@ -27,6 +27,6 @@ _"Work on you, for you"_
 - **Web Servers**: Apache
 - **Package Managers**: NPM, Composer
 - **IDE**: VS Code
-- **Basic**: Figma, Canva, Microsoft, Adobe, Capcut
+- **Basic**: Figma, Canva, Microsoft, Adobe, Capcut.
 
 ---
